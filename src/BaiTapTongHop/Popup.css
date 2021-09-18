@@ -1,0 +1,11 @@
+.openModal {
+  transform: translateY(0);
+  opacity: 1;
+  transition: all ease-in-out 0.7s;
+}
+
+.closeModal {
+  transform: translateY(-100%);
+  opacity: 0;
+  transition: all ease-in-out 0.7s;
+}
