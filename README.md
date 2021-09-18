@@ -6,7 +6,7 @@
 <h3>
   A Mini Food app build with Reactjs, Lodash and Tailwindcss
 </h3>
-<img src="./public/images/foodgif.gif" alt="abc" />
+<img src="./public/foodgif.gif" alt="abc" />
 <hr />
 <h2>Setting up development environment 🛠</h2>
 
