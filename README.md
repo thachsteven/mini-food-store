@@ -1,10 +1,10 @@
-<h1>Mini Food Store</h1>
+<h1>TS Food Store</h1>
 <h4>Technologies: Reactjs, Lodash, Tailwindcss</h4>
 <h4>Source: https://github.com/thachsteven/mini-food-store</h4>
 <h4>Live demo: https://mini-food-store.vercel.app/</h4>
 
 <h3>
-  A Mini Food app build with Reactjs, Lodash and Tailwindcss
+  TS Food Store is a mini food app build with Reactjs, Lodash and Tailwindcss
 </h3>
 <img src="./public/foodgif.gif" alt="abc" />
 <hr />
